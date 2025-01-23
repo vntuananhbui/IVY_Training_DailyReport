@@ -1,0 +1,13 @@
+INFO:root:Session ID: None, User Query: Which countries were the top three manufacturers for Nike Brand footwear in fiscal year 2023, and what percentage of production did each contribute?, Model: gemini-1.5-pro
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: e4eb0ba7-1af5-4259-bdd2-6652064d4d6f, AI Response: The text does not provide the top three countries for Nike Brand footwear production in fiscal year 2023. It only mentions that 10% of footwear production accounted for approximately 58% of NIKE Brand footwear production, but it does not specify the countries.
+
+However, it does provide information on the top three countries for Nike Brand apparel production in fiscal year 2023, which are:
+
+1. Vietnam - approximately 29% of production
+2. China - approximately 18% of production
+3. Cambodia - approximately 16% of production
+INFO:root:Session ID: e4eb0ba7-1af5-4259-bdd2-6652064d4d6f, User Query: Which countries were the top three manufacturers for Nike Brand footwear in fiscal year 2023, and what percentage of production did each contribute?, Model: gemini-1.5-pro
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: e4eb0ba7-1af5-4259-bdd2-6652064d4d6f, AI Response: I apologize, but the provided text does not mention the top three countries for Nike Brand footwear production in fiscal year 2023, nor does it provide the percentage of production for each country. The text only discusses risk factors and investor information, but it does not provide specific data on footwear production by country.
